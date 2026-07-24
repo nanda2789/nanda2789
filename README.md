@@ -19,7 +19,7 @@ Minhas áreas de interesse incluem:
 - **Power BI** – dashboards para tomada de decisão  
 - **BPMS Zeev** – modelagem e automação de processos com integrações sistêmicas(APIs)
 - **RPA (Automation Anywhere)** – mapeamento e desenho de automações robóticas  
-- **Hiperautomação** – integração entre ferramentas low-code, IA e automação robótica  
+- **Hiperautomação** – integração entre ferramentas low-code e automação robótica  
 
 ---
 
